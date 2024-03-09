@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liliia Kalinichenko</h1>
 <h3 align="center">A passionate Frontend developer</h3>
 
-- 🔭 I’m currently working on [Dryg Brand Project](https://github.com/N1khto/dryg-brand-team-project)
 
 - 🌱 I’m currently learning **Node.js, Next.js**
 
